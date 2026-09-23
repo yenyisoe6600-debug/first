@@ -1,0 +1,23 @@
+[33mcommit b6b28a926fe508d2b5b127b065d439f85d12de08[m
+Author: Ye nyi <yenyisoe6600@gmail.com>
+Date:   Tue Sep 22 14:33:40 2026 +0630
+
+    First
+
+[1mdiff --git a/ss.html b/ss.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..aad92cc[m
+[1m--- /dev/null[m
+[1m+++ b/ss.html[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <title>g</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
